@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+- Currently Media Informatics Student at [HTW Dresden](https://www.htw-dresden.de/)
 <!--
 **Ikary0207/Ikary0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
